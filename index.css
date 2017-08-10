@@ -1,0 +1,6 @@
+#btable{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	background-color: rgba(0,0,255,0.2);
+}
